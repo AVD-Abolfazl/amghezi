@@ -1,2 +1,2 @@
 # amghezi
-Just a test project for tutorial
+Ye gaav daram amghezi
